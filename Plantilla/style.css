@@ -1,0 +1,18 @@
+body {
+    background-image: url("/Plantilla/img/bola.gif")
+    
+}
+h3.plantilla {
+    color: orange;
+    background-color: black;
+}
+
+p.par {
+    font-weight: bold;
+}
+
+h3.inicio {
+    background-color: chocolate;
+    width: 100px;
+    color: rgb(186, 255, 249);
+}
